@@ -1,0 +1,5 @@
+interface:
+  display_name: "Character design_mini"
+  short_description: "轻量版角色建模：快速卡 + 单场景推演"
+policy:
+  allow_implicit_invocation: false

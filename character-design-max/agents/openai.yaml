@@ -1,0 +1,5 @@
+interface:
+  display_name: "Character design_max"
+  short_description: "完整版角色建模：对齐提问、出卡、连续扮演"
+policy:
+  allow_implicit_invocation: false
